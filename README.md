@@ -1,6 +1,6 @@
 
 ![logo](https://github.com/manish3203/manish3203/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Manish Chavan</h1>
+<h1 align="center">Hi 👋, I'm Vivek Ingale</h1>
 <h3 align="center">Crafting Code And Building Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish3203&label=Profile%20views&color=0e75b6&style=flat" alt="manish3203" /> </p>
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Dart, Flutter, Java, Data Structure & GIT**
 
-- 📫 How to reach me **manishchavan639@gmail.com**
+- 📫 How to reach me **vivekingale3989@gmail.com**
 
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
