@@ -1,5 +1,5 @@
 
-![logo](https://github.com/manish3203/manish3203/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png)
+![logo](https://github.com/Vivekingale7/leetCodeQue-Ans/blob/main/photo_2024-11-23_23-13-47.jpg)
 <h1 align="center">Hi 👋, I'm Vivek Ingale</h1>
 <h3 align="center">Crafting Code And Building Solutions</h3>
 
