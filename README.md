@@ -16,7 +16,7 @@
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/vivek-ingale-viv007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manish-chavan-a16119235/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vivek-ingale-viv007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-ingale-viv007/" height="30" width="40" /></a>
 <a href="https://instagram.com/Viv___007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manish_____760" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Vivekingale7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manishchavan639" height="30" width="40" /></a>
 <a href="https://leetcode.com/Viv___007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manish3203" height="30" width="40" /></a>
