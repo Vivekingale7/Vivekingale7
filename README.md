@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently working on **FLUTTER FRAMEWORK**
+- 🌱 I’m currently working on **FLUTTER FRAMEWORK.......**
 
 - 💬 Ask me about **Dart, Flutter, Java, Data Structure & GIT**
 
